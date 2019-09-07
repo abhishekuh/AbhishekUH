@@ -79,19 +79,19 @@ code {
 }
 
 .link-color{
-  color: white;
+  color: black;
   margin-right: 15px;
 }
 .link-color:hover{
   font-weight: bold;
-  color: white;
+  color: black;
   text-decoration: none;
 }
 .link-color:active , .link-color:focus{
   font-weight: bold;
-  color: white;
+  color: black;
   text-decoration: none;
-  border-bottom: 2px solid white;
+  border-bottom: 2px solid black;
 }
 .brand-logo{
   background: white;
