@@ -114,7 +114,14 @@ code {
   border-bottom: 1px solid #d3d3d352;
   margin-bottom: 10px;
   height: 130px;
-  background: #b3d7ff;
+  /* background: #b3d7ff; */
+  background-image: url('assets/angular.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.js-stack-img{
+  background-image: url('http://pluspng.com/img-png/logo-javascript-png-javascript-for-ile-y-ld-z-600.png')
 }
 .project-name{
   padding: 5px 10px;

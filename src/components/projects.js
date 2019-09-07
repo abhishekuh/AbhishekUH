@@ -14,28 +14,28 @@ export default class projects extends Component {
                                     {/* <img src="{Logo}" alt="image"></ img> */}
                                 </div>
                                 <div className="project-name">CloseVille</div>
-                                <div className="project-desc">Order management business application</div>
+                                <div className="project-desc">Order management application for real estate business</div>
                             </div>
                             <div className="project-card">
-                                <div className="project-img">
+                                <div className="project-img js-stack-img">
                                     {/* <img src="{Logo}" alt="image"></ img> */}
                                 </div>
                                 <div className="project-name">Shelf</div>
-                                <div className="project-desc">E Commerce shopping application for web and mobile</div>
+                                <div className="project-desc">Celebrity focussed E Commerce shopping application for web and mobile</div>
                             </div>
                             <div className="project-card">
-                                <div className="project-img">
+                                <div className="project-img js-stack-img">
                                     {/* <img src="{Logo}" alt="image"></ img> */}
                                 </div>
                                 <div className="project-name">Mathup</div>
-                                <div className="project-desc">Mathematics Quiz application</div>
+                                <div className="project-desc">Mathematics Quiz application for school children</div>
                             </div>
                             <div className="project-card">
                                 <div className="project-img">
                                     {/* <img src="{Logo}" alt="image"></ img> */}
                                 </div>
                                 <div className="project-name">Analytics Dashboard</div>
-                                <div className="project-desc">Data Visualisation through different charts</div>
+                                <div className="project-desc">Data Visualisation through various types of charts</div>
                             </div>
                         </div>
                     </div>
